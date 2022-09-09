@@ -76,4 +76,59 @@ Untracked files:
 	answers.md
 
 Answer 6
+On branch master
 
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+Answer 7
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 8
+commit f9bdaac81c5c91e477d9f8d5d2a735826e87753d (HEAD -> master)
+Author: Matthew Berry <mb135821@ohio.edu>
+Date:   Fri Sep 9 14:20:08 2022 -0400
+
+    Initial commit
+Answer 9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 10
+No
+
+Answer 11
+it fails due to conflicts
+Answer 12
+Yes
+Answer 13
+.
+..
+answers.md
+.git
+.gitignore
+README.md
